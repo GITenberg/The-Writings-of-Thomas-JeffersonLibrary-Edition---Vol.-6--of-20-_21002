@@ -1,0 +1,48 @@
+_repo: The-Writings-of-Thomas-JeffersonLibrary-Edition---Vol.-6--of-20-_21002
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jefferson, Thomas
+    alias: United States President (1801-1809)
+    birthdate: 1743
+    deathdate: 1826
+    gutenberg_agent_id: '1638'
+    url: http://www.gutenberg.org/2009/agents/1638
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Jefferson
+  editors:
+  - agent_name: Lipscomb, Andrew A. (Andrew Adgate)
+    birthdate: 1854
+    deathdate: 1915
+    gutenberg_agent_id: '9666'
+    url: http://www.gutenberg.org/2009/agents/9666
+  - agent_name: Bergh, Albert Ellery
+    birthdate: 1861
+    deathdate: 1919
+    gutenberg_agent_id: '9667'
+    url: http://www.gutenberg.org/2009/agents/9667
+description: Go to top; Jefferson as a Tactician; David Humphreysxxvi; The First Prayer
+  in Congressxx; Return; Letters Written While in Europe, 1784-1790; To General Washington,
+  Nov. 14, 1786; To Monsieur Chas, Dec. 7, 1786; To Monsieur Duler, Dec. 8, 1786;
+  To Messrs. Wilt, Delmestre and Co., Dec. 11, 1786; To James Madison, Dec. 16, 1786;
+  To Charles Thompson, Dec. 17, 1786; To Colonel James Monroe, Dec. 18, 1786; To John
+  Adams, Dec. 20, 1786; To Francis Hopkinson, Dec. 23, 1786; To Benjamin Franklin,
+  Dec. 23, 1786; To Ezra Stiles, Dec. 24, 1786; To C.W.F. Dumas, Dec. 25, 1786.
+gutenberg_issued: '2007-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1783-1789'
+- !lcsh 'United States -- Politics and government -- 1775-1783'
+- !lcc 'E300'
+title: 'The Writings of Thomas Jefferson
+
+  Library Edition - Vol. 6 (of 20)'
+url: http://www.gutenberg.org/ebooks/21002
